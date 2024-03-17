@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">AsyncTaskApplication</string>
+  <string name="parallel_task_button_text">Start parallel Task</string>
+  <string name="consistent_task_button_text">Start consistent Task</string>
+  <string name="loading">Loading...</string>
+  <string name="task_completed">The task is completed</string>
+</resources>
